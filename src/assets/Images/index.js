@@ -34,7 +34,7 @@ import Regulatory from './regulatory.svg';
 import Bussiness from './bussiness.svg';
 import GlobalTrial from './globalTrial.svg';
 import GlobalView from './globalView.svg';
-import HeroHome from './hrr.webp';
+import HeroHome from './hhh_11zon.webp';
 import Optimize from './optimize.png';
 import Capture from './capture.png'
 import Insights from './insights.png'
